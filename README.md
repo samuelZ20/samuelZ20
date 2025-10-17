@@ -11,7 +11,7 @@
 
 Sou estudante de Ciência da Computação na **Universidade Federal de Lavras (UFLA)**. Meu foco de estudo e desenvolvimento é em **Desenvolvimento Backend** e **Ciência de Dados**, áreas que me fascinam pela capacidade de construir sistemas robustos e extrair insights valiosos a partir de informações.
 
-Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em criação de APIs e análise de dados. Também sou membro do **Núcleo de Estudos em Neurociências (NEURON)**.
+Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em criação de APIs e análise de dados. Também sou membro do **Núcleo de Estudos em Robótica Interativa, Dados & IA (NEURON)**.
 
 ---
 
@@ -35,7 +35,6 @@ Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em cr
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/samuelZ20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelZ20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelZ20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
