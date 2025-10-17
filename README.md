@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Samuel Frizzone Cardoso 👋
 
-<!--
-**samuelZ20/samuelZ20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/samuel-frizzone-cardoso-99b890322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:frizzonecardoso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação na **Universidade Federal de Lavras (UFLA)**. Meu foco de estudo e desenvolvimento é em **Desenvolvimento Backend** e **Ciência de Dados**, áreas que me fascinam pela capacidade de construir sistemas robustos e extrair insights valiosos a partir de informações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em criação de APIs e análise de dados. Também sou membro do **Núcleo de Estudos em Neurociências (NEURON)**.
+
+---
+
+### 🚀 Meus Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+**[Movie Rats API](https://github.com/samuelZ20/Movie-Rats)** | (Em desenvolvimento) API RESTful para um sistema de avaliação de filmes, com funcionalidades de cadastro, autenticação e operações CRUD. | `JavaScript`, `Node.js`/`Express`, `Docker`, `REST API` |
+| **[Pipeline CI/CD](https://github.com/samuelZ20/pipeline-em-ci-cd)** | Implementação de uma pipeline de Integração Contínua (CI/CD) para automatizar o build e os testes de uma aplicação simples. | `GitHub Actions`, `Docker`, `Vagrant`, `Shell Script` |
+| **[Gerenciador de Filmes do Oscar](https://github.com/samuelZ20/-Gerenciador-de-Cat-logo-de-Filmes-em-C-)** | Aplicação de console em C++ para gerenciar um catálogo de filmes. Implementa operações CRUD (Criar, Ler, Atualizar, Deletar) e salva os dados em arquivos. | `C++`, `Algoritmos` |
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=C++,python,pandas,node.js,mysql,git,vscode" />
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/samuelZ20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelZ20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelZ20&layout=compact&langs_count=7&theme=dracula"/>
+</div>
