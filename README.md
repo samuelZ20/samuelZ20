@@ -26,9 +26,11 @@ Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em cr
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=C++,python,pandas,node.js,mysql,git,vscode" />
-</p>
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,flask,django,pandas" alt="skill-icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,docker,githubactions,vagrant,linux,vscode" alt="skill-icons" />
+</div>
 
 ---
 
