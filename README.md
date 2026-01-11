@@ -9,10 +9,7 @@
   </a>
 </p>
 
-Sou estudante de Ciência da Computação na **Universidade Federal de Lavras (UFLA)**. Meu foco de estudo e desenvolvimento é em **Desenvolvimento Backend** e **Ciência de Dados & IA**, áreas que me fascinam pela capacidade de construir sistemas robustos e extrair insights valiosos a partir de informações.
-
-Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em criação de APIs e análise de dados. Também sou membro do **Núcleo de Estudos em Robótica Interativa, Dados & IA (NEURON)**.
-
+Estudante de Ciência da Computação (UFLA), atualmente no terceiro período. Além de ter foco em Engenharia de Dados, estudando ferramentas, como Python, SQL, processos ETL...
 ---
 
 ### 🚀 Meus Principais Projetos
