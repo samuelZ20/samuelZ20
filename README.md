@@ -11,16 +11,6 @@
 
 Estudante de Ciência da Computação (UFLA), atualmente no terceiro período. Além de ter foco em Engenharia de Dados, estudando ferramentas, como Python, SQL, processos ETL...
 ---
-
-### 🚀 Meus Principais Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-**[Movie Rats API](https://github.com/samuelZ20/Movie-Rats)** | (Em desenvolvimento) API RESTful para um sistema de avaliação de filmes, com funcionalidades de cadastro, autenticação e operações CRUD. | `JavaScript`, `Node.js`/`Express`, `Docker`, `REST API` |
-| **[Pipeline CI/CD](https://github.com/samuelZ20/pipeline-em-ci-cd)** | Implementação de uma pipeline de Integração Contínua (CI/CD) para automatizar o build e os testes de uma aplicação simples. | `GitHub Actions`, `Docker`, `Vagrant`, `Shell Script` |
-| **[Gerenciador de Filmes do Oscar](https://github.com/samuelZ20/-Gerenciador-de-Cat-logo-de-Filmes-em-C-)** | Aplicação de console em C++ para gerenciar um catálogo de filmes. Implementa operações CRUD (Criar, Ler, Atualizar, Deletar) e salva os dados em arquivos. | `C++`, `Algoritmos` |
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left"> 
