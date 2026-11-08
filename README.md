@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Além de ter foco em Ciência de Dados,estou estudando ferramentas, como Python, SQL, AirFlow, processos ETL...
+Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Além de ter foco em Ciência de Dados,estou estudando ferramentas, como Python, SQL, Machine Learning, processos ETL, AWS...
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
