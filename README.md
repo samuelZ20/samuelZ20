@@ -9,14 +9,17 @@
   </a>
 </p>
 
-Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Além de ter foco em Ciência de Dados,estou estudando ferramentas, como Python, SQL, Machine Learning, processos ETL, AWS...
+Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Com foco em Ciência de Dados, estou estudando ferramentas como Python, SQL, Machine Learning, processos ETL e AWS.
+
 ---
+
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,pandas" alt="skill-icons" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,docker,githubactions,vscode" alt="skill-icons" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+</p>
 
 ---
