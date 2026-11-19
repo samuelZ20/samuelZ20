@@ -9,7 +9,7 @@
   </a>
 </p>
 
-# Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Com foco em Ciência de Dados, estou estudando ferramentas como Python, SQL, Machine Learning, Estatística, processos ETL/ELT  e AWS.
+# Estudante de Ciência da Computação (UFLA), atualmente no quarto período. Com foco em Ciência de Dados & IA e Robótica Interativa, estou estudando ferramentas como Python, SQL, Machine Learning, Estatística...
 
 ---
 
